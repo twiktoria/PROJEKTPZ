@@ -1,0 +1,17 @@
+C:\Users\Wiktoria\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Klient.exe
+C:\Users\Wiktoria\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Klient.deps.json
+C:\Users\Wiktoria\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Klient.runtimeconfig.json
+C:\Users\Wiktoria\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Klient.dll
+C:\Users\Wiktoria\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Klient.pdb
+C:\Users\Wiktoria\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\SuperSimpleTcp.dll
+C:\Users\Wiktoria\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Klient.csproj.AssemblyReference.cache
+C:\Users\Wiktoria\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Klient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktoria\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Klient.AssemblyInfoInputs.cache
+C:\Users\Wiktoria\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Klient.AssemblyInfo.cs
+C:\Users\Wiktoria\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Klient.csproj.CoreCompileInputs.cache
+C:\Users\Wiktoria\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Klient.csproj.CopyComplete
+C:\Users\Wiktoria\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Klient.dll
+C:\Users\Wiktoria\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\Klient.dll
+C:\Users\Wiktoria\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Klient.pdb
+C:\Users\Wiktoria\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Klient.genruntimeconfig.cache
+C:\Users\Wiktoria\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\Klient.dll

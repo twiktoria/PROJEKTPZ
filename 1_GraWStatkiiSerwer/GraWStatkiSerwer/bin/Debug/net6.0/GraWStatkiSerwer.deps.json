@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GraWStatkiSerwer/1.0.0": {
+        "dependencies": {
+          "SuperSimpleTcp": "2.6.0.8"
+        },
+        "runtime": {
+          "GraWStatkiSerwer.dll": {}
+        }
+      },
+      "SuperSimpleTcp/2.6.0.8": {
+        "runtime": {
+          "lib/net6.0/SuperSimpleTcp.dll": {
+            "assemblyVersion": "2.6.0.8",
+            "fileVersion": "2.6.0.8"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GraWStatkiSerwer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SuperSimpleTcp/2.6.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-s+WrolJgoYLkd3TF4wgTrmfuBSMuzEWYUT5hBXMnM8fpvLDDcH7pMOsxaH9yI1IXUiLf7ynNkIwU8/XlPOk0Eg==",
+      "path": "supersimpletcp/2.6.0.8",
+      "hashPath": "supersimpletcp.2.6.0.8.nupkg.sha512"
+    }
+  }
+}

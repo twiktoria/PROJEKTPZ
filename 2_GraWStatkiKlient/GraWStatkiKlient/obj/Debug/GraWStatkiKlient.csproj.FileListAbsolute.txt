@@ -1,0 +1,58 @@
+C:\Users\Wiktoria\Desktop\nju\Battle Ship Game Windows Form MOO ICT\GraWStatkiKlient\bin\Debug\Battle Ship Game Windows Form MOO ICT.exe.config
+C:\Users\Wiktoria\Desktop\nju\Battle Ship Game Windows Form MOO ICT\GraWStatkiKlient\bin\Debug\Battle Ship Game Windows Form MOO ICT.exe
+C:\Users\Wiktoria\Desktop\nju\Battle Ship Game Windows Form MOO ICT\GraWStatkiKlient\bin\Debug\Battle Ship Game Windows Form MOO ICT.pdb
+C:\Users\Wiktoria\Desktop\nju\Battle Ship Game Windows Form MOO ICT\GraWStatkiKlient\bin\Debug\SuperSimpleTcp.dll
+C:\Users\Wiktoria\Desktop\nju\Battle Ship Game Windows Form MOO ICT\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.csproj.AssemblyReference.cache
+C:\Users\Wiktoria\Desktop\nju\Battle Ship Game Windows Form MOO ICT\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiktoria\Desktop\nju\Battle Ship Game Windows Form MOO ICT\GraWStatkiKlient\obj\Debug\GraWStatki.Form1.resources
+C:\Users\Wiktoria\Desktop\nju\Battle Ship Game Windows Form MOO ICT\GraWStatkiKlient\obj\Debug\Battle_Ship_Game_Windows_Form_MOO_ICT.Properties.Resources.resources
+C:\Users\Wiktoria\Desktop\nju\Battle Ship Game Windows Form MOO ICT\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.csproj.GenerateResource.cache
+C:\Users\Wiktoria\Desktop\nju\Battle Ship Game Windows Form MOO ICT\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.csproj.CoreCompileInputs.cache
+C:\Users\Wiktoria\Desktop\nju\Battle Ship Game Windows Form MOO ICT\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.csproj.CopyComplete
+C:\Users\Wiktoria\Desktop\nju\Battle Ship Game Windows Form MOO ICT\GraWStatkiKlient\obj\Debug\Battle Ship Game Windows Form MOO ICT.exe
+C:\Users\Wiktoria\Desktop\nju\Battle Ship Game Windows Form MOO ICT\GraWStatkiKlient\obj\Debug\Battle Ship Game Windows Form MOO ICT.pdb
+C:\Users\Wiktoria\Desktop\magja\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.csproj.AssemblyReference.cache
+C:\Users\Wiktoria\Desktop\magja\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiktoria\Desktop\magja\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatki.Form1.resources
+C:\Users\Wiktoria\Desktop\magja\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.Properties.Resources.resources
+C:\Users\Wiktoria\Desktop\magja\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.csproj.GenerateResource.cache
+C:\Users\Wiktoria\Desktop\magja\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.csproj.CoreCompileInputs.cache
+C:\Users\Wiktoria\Desktop\nazwydone+prop\GraWStatkiKlient\GraWStatkiKlient\bin\Debug\GraWStatkiKlient.exe.config
+C:\Users\Wiktoria\Desktop\nazwydone+prop\GraWStatkiKlient\GraWStatkiKlient\bin\Debug\GraWStatkiKlient.exe
+C:\Users\Wiktoria\Desktop\nazwydone+prop\GraWStatkiKlient\GraWStatkiKlient\bin\Debug\GraWStatkiKlient.pdb
+C:\Users\Wiktoria\Desktop\nazwydone+prop\GraWStatkiKlient\GraWStatkiKlient\bin\Debug\SuperSimpleTcp.dll
+C:\Users\Wiktoria\Desktop\nazwydone+prop\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.csproj.AssemblyReference.cache
+C:\Users\Wiktoria\Desktop\nazwydone+prop\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiktoria\Desktop\nazwydone+prop\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.Properties.Resources.resources
+C:\Users\Wiktoria\Desktop\nazwydone+prop\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.csproj.GenerateResource.cache
+C:\Users\Wiktoria\Desktop\nazwydone+prop\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.csproj.CoreCompileInputs.cache
+C:\Users\Wiktoria\Desktop\nazwydone+prop\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.csproj.CopyComplete
+C:\Users\Wiktoria\Desktop\nazwydone+prop\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.exe
+C:\Users\Wiktoria\Desktop\nazwydone+prop\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.pdb
+C:\Users\Wiktoria\Desktop\nazwydone+prop\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.Form1.resources
+C:\Users\Wiktoria\Desktop\New folder\GraWStatkiKlient\GraWStatkiKlient\bin\Debug\GraWStatkiKlient.exe.config
+C:\Users\Wiktoria\Desktop\New folder\GraWStatkiKlient\GraWStatkiKlient\bin\Debug\GraWStatkiKlient.exe
+C:\Users\Wiktoria\Desktop\New folder\GraWStatkiKlient\GraWStatkiKlient\bin\Debug\GraWStatkiKlient.pdb
+C:\Users\Wiktoria\Desktop\New folder\GraWStatkiKlient\GraWStatkiKlient\bin\Debug\SuperSimpleTcp.dll
+C:\Users\Wiktoria\Desktop\New folder\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.csproj.AssemblyReference.cache
+C:\Users\Wiktoria\Desktop\New folder\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiktoria\Desktop\New folder\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.Form1.resources
+C:\Users\Wiktoria\Desktop\New folder\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.Properties.Resources.resources
+C:\Users\Wiktoria\Desktop\New folder\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.csproj.GenerateResource.cache
+C:\Users\Wiktoria\Desktop\New folder\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.csproj.CoreCompileInputs.cache
+C:\Users\Wiktoria\Desktop\New folder\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.csproj.CopyComplete
+C:\Users\Wiktoria\Desktop\New folder\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.exe
+C:\Users\Wiktoria\Desktop\New folder\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.pdb
+C:\Users\Wiktoria\Desktop\Nowy folder (5)\GraWStatkiKlient\GraWStatkiKlient\bin\Debug\GraWStatkiKlient.exe.config
+C:\Users\Wiktoria\Desktop\Nowy folder (5)\GraWStatkiKlient\GraWStatkiKlient\bin\Debug\GraWStatkiKlient.exe
+C:\Users\Wiktoria\Desktop\Nowy folder (5)\GraWStatkiKlient\GraWStatkiKlient\bin\Debug\GraWStatkiKlient.pdb
+C:\Users\Wiktoria\Desktop\Nowy folder (5)\GraWStatkiKlient\GraWStatkiKlient\bin\Debug\SuperSimpleTcp.dll
+C:\Users\Wiktoria\Desktop\Nowy folder (5)\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.csproj.AssemblyReference.cache
+C:\Users\Wiktoria\Desktop\Nowy folder (5)\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiktoria\Desktop\Nowy folder (5)\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.Form1.resources
+C:\Users\Wiktoria\Desktop\Nowy folder (5)\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.Properties.Resources.resources
+C:\Users\Wiktoria\Desktop\Nowy folder (5)\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.csproj.GenerateResource.cache
+C:\Users\Wiktoria\Desktop\Nowy folder (5)\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.csproj.CoreCompileInputs.cache
+C:\Users\Wiktoria\Desktop\Nowy folder (5)\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.csproj.CopyComplete
+C:\Users\Wiktoria\Desktop\Nowy folder (5)\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.exe
+C:\Users\Wiktoria\Desktop\Nowy folder (5)\GraWStatkiKlient\GraWStatkiKlient\obj\Debug\GraWStatkiKlient.pdb

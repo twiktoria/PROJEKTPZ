@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4clcZ67e2iv+4/cgKb3vPQhavvobAcWTJHS44q2XsfyI9FLKctk0rKER3jb4T+tN6JQMk/XVux5uiVLxLVeaDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Wiktoria\\Desktop\\Nowy folder (5)\\GraWStatkiiSerwer\\GraWStatkiSerwer\\GraWStatkiSerwer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wiktoria\\.nuget\\packages\\supersimpletcp\\2.6.0.8\\supersimpletcp.2.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

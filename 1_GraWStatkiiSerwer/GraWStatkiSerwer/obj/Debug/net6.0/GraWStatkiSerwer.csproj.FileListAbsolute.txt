@@ -1,0 +1,68 @@
+C:\Users\Wiktoria\Desktop\nju\GraWStatkiSerwer\GraWStatkiSerwer\bin\Debug\net6.0\GraWStatkiSerwer.exe
+C:\Users\Wiktoria\Desktop\nju\GraWStatkiSerwer\GraWStatkiSerwer\bin\Debug\net6.0\GraWStatkiSerwer.deps.json
+C:\Users\Wiktoria\Desktop\nju\GraWStatkiSerwer\GraWStatkiSerwer\bin\Debug\net6.0\GraWStatkiSerwer.runtimeconfig.json
+C:\Users\Wiktoria\Desktop\nju\GraWStatkiSerwer\GraWStatkiSerwer\bin\Debug\net6.0\GraWStatkiSerwer.dll
+C:\Users\Wiktoria\Desktop\nju\GraWStatkiSerwer\GraWStatkiSerwer\bin\Debug\net6.0\GraWStatkiSerwer.pdb
+C:\Users\Wiktoria\Desktop\nju\GraWStatkiSerwer\GraWStatkiSerwer\bin\Debug\net6.0\SuperSimpleTcp.dll
+C:\Users\Wiktoria\Desktop\nju\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.csproj.AssemblyReference.cache
+C:\Users\Wiktoria\Desktop\nju\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktoria\Desktop\nju\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.AssemblyInfoInputs.cache
+C:\Users\Wiktoria\Desktop\nju\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.AssemblyInfo.cs
+C:\Users\Wiktoria\Desktop\nju\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.csproj.CoreCompileInputs.cache
+C:\Users\Wiktoria\Desktop\nju\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.csproj.CopyComplete
+C:\Users\Wiktoria\Desktop\nju\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.dll
+C:\Users\Wiktoria\Desktop\nju\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\refint\GraWStatkiSerwer.dll
+C:\Users\Wiktoria\Desktop\nju\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.pdb
+C:\Users\Wiktoria\Desktop\nju\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.genruntimeconfig.cache
+C:\Users\Wiktoria\Desktop\nju\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\ref\GraWStatkiSerwer.dll
+C:\Users\Wiktoria\Desktop\nazwydone+prop\GraWStatkiSerwer\GraWStatkiSerwer\bin\Debug\net6.0\GraWStatkiSerwer.exe
+C:\Users\Wiktoria\Desktop\nazwydone+prop\GraWStatkiSerwer\GraWStatkiSerwer\bin\Debug\net6.0\GraWStatkiSerwer.deps.json
+C:\Users\Wiktoria\Desktop\nazwydone+prop\GraWStatkiSerwer\GraWStatkiSerwer\bin\Debug\net6.0\GraWStatkiSerwer.runtimeconfig.json
+C:\Users\Wiktoria\Desktop\nazwydone+prop\GraWStatkiSerwer\GraWStatkiSerwer\bin\Debug\net6.0\GraWStatkiSerwer.dll
+C:\Users\Wiktoria\Desktop\nazwydone+prop\GraWStatkiSerwer\GraWStatkiSerwer\bin\Debug\net6.0\GraWStatkiSerwer.pdb
+C:\Users\Wiktoria\Desktop\nazwydone+prop\GraWStatkiSerwer\GraWStatkiSerwer\bin\Debug\net6.0\SuperSimpleTcp.dll
+C:\Users\Wiktoria\Desktop\nazwydone+prop\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.csproj.AssemblyReference.cache
+C:\Users\Wiktoria\Desktop\nazwydone+prop\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktoria\Desktop\nazwydone+prop\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.AssemblyInfoInputs.cache
+C:\Users\Wiktoria\Desktop\nazwydone+prop\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.AssemblyInfo.cs
+C:\Users\Wiktoria\Desktop\nazwydone+prop\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.csproj.CoreCompileInputs.cache
+C:\Users\Wiktoria\Desktop\nazwydone+prop\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.csproj.CopyComplete
+C:\Users\Wiktoria\Desktop\nazwydone+prop\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.dll
+C:\Users\Wiktoria\Desktop\nazwydone+prop\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\refint\GraWStatkiSerwer.dll
+C:\Users\Wiktoria\Desktop\nazwydone+prop\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.pdb
+C:\Users\Wiktoria\Desktop\nazwydone+prop\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.genruntimeconfig.cache
+C:\Users\Wiktoria\Desktop\nazwydone+prop\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\ref\GraWStatkiSerwer.dll
+C:\Users\Wiktoria\Desktop\New folder\GraWStatkiSerwer\GraWStatkiSerwer\bin\Debug\net6.0\GraWStatkiSerwer.exe
+C:\Users\Wiktoria\Desktop\New folder\GraWStatkiSerwer\GraWStatkiSerwer\bin\Debug\net6.0\GraWStatkiSerwer.deps.json
+C:\Users\Wiktoria\Desktop\New folder\GraWStatkiSerwer\GraWStatkiSerwer\bin\Debug\net6.0\GraWStatkiSerwer.runtimeconfig.json
+C:\Users\Wiktoria\Desktop\New folder\GraWStatkiSerwer\GraWStatkiSerwer\bin\Debug\net6.0\GraWStatkiSerwer.dll
+C:\Users\Wiktoria\Desktop\New folder\GraWStatkiSerwer\GraWStatkiSerwer\bin\Debug\net6.0\GraWStatkiSerwer.pdb
+C:\Users\Wiktoria\Desktop\New folder\GraWStatkiSerwer\GraWStatkiSerwer\bin\Debug\net6.0\SuperSimpleTcp.dll
+C:\Users\Wiktoria\Desktop\New folder\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.csproj.AssemblyReference.cache
+C:\Users\Wiktoria\Desktop\New folder\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktoria\Desktop\New folder\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.AssemblyInfoInputs.cache
+C:\Users\Wiktoria\Desktop\New folder\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.AssemblyInfo.cs
+C:\Users\Wiktoria\Desktop\New folder\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.csproj.CoreCompileInputs.cache
+C:\Users\Wiktoria\Desktop\New folder\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.csproj.CopyComplete
+C:\Users\Wiktoria\Desktop\New folder\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.dll
+C:\Users\Wiktoria\Desktop\New folder\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\refint\GraWStatkiSerwer.dll
+C:\Users\Wiktoria\Desktop\New folder\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.pdb
+C:\Users\Wiktoria\Desktop\New folder\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.genruntimeconfig.cache
+C:\Users\Wiktoria\Desktop\New folder\GraWStatkiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\ref\GraWStatkiSerwer.dll
+C:\Users\Wiktoria\Desktop\Nowy folder (5)\GraWStatkiiSerwer\GraWStatkiSerwer\bin\Debug\net6.0\GraWStatkiSerwer.exe
+C:\Users\Wiktoria\Desktop\Nowy folder (5)\GraWStatkiiSerwer\GraWStatkiSerwer\bin\Debug\net6.0\GraWStatkiSerwer.deps.json
+C:\Users\Wiktoria\Desktop\Nowy folder (5)\GraWStatkiiSerwer\GraWStatkiSerwer\bin\Debug\net6.0\GraWStatkiSerwer.runtimeconfig.json
+C:\Users\Wiktoria\Desktop\Nowy folder (5)\GraWStatkiiSerwer\GraWStatkiSerwer\bin\Debug\net6.0\GraWStatkiSerwer.dll
+C:\Users\Wiktoria\Desktop\Nowy folder (5)\GraWStatkiiSerwer\GraWStatkiSerwer\bin\Debug\net6.0\GraWStatkiSerwer.pdb
+C:\Users\Wiktoria\Desktop\Nowy folder (5)\GraWStatkiiSerwer\GraWStatkiSerwer\bin\Debug\net6.0\SuperSimpleTcp.dll
+C:\Users\Wiktoria\Desktop\Nowy folder (5)\GraWStatkiiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.csproj.AssemblyReference.cache
+C:\Users\Wiktoria\Desktop\Nowy folder (5)\GraWStatkiiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktoria\Desktop\Nowy folder (5)\GraWStatkiiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.AssemblyInfoInputs.cache
+C:\Users\Wiktoria\Desktop\Nowy folder (5)\GraWStatkiiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.AssemblyInfo.cs
+C:\Users\Wiktoria\Desktop\Nowy folder (5)\GraWStatkiiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.csproj.CoreCompileInputs.cache
+C:\Users\Wiktoria\Desktop\Nowy folder (5)\GraWStatkiiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.csproj.CopyComplete
+C:\Users\Wiktoria\Desktop\Nowy folder (5)\GraWStatkiiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.dll
+C:\Users\Wiktoria\Desktop\Nowy folder (5)\GraWStatkiiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\refint\GraWStatkiSerwer.dll
+C:\Users\Wiktoria\Desktop\Nowy folder (5)\GraWStatkiiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.pdb
+C:\Users\Wiktoria\Desktop\Nowy folder (5)\GraWStatkiiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\GraWStatkiSerwer.genruntimeconfig.cache
+C:\Users\Wiktoria\Desktop\Nowy folder (5)\GraWStatkiiSerwer\GraWStatkiSerwer\obj\Debug\net6.0\ref\GraWStatkiSerwer.dll

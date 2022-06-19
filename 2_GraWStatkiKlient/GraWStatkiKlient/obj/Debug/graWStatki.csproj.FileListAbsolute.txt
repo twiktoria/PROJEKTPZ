@@ -1,0 +1,13 @@
+C:\Users\Wiktoria\source\repos\Battle Ship Game Windows Form MOO ICT\Battle Ship Game Windows Form MOO ICT\bin\Debug\Battle Ship Game Windows Form MOO ICT.exe.config
+C:\Users\Wiktoria\source\repos\Battle Ship Game Windows Form MOO ICT\Battle Ship Game Windows Form MOO ICT\bin\Debug\Battle Ship Game Windows Form MOO ICT.exe
+C:\Users\Wiktoria\source\repos\Battle Ship Game Windows Form MOO ICT\Battle Ship Game Windows Form MOO ICT\bin\Debug\Battle Ship Game Windows Form MOO ICT.pdb
+C:\Users\Wiktoria\source\repos\Battle Ship Game Windows Form MOO ICT\Battle Ship Game Windows Form MOO ICT\bin\Debug\SuperSimpleTcp.dll
+C:\Users\Wiktoria\source\repos\Battle Ship Game Windows Form MOO ICT\Battle Ship Game Windows Form MOO ICT\obj\Debug\graWStatki.csproj.AssemblyReference.cache
+C:\Users\Wiktoria\source\repos\Battle Ship Game Windows Form MOO ICT\Battle Ship Game Windows Form MOO ICT\obj\Debug\graWStatki.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiktoria\source\repos\Battle Ship Game Windows Form MOO ICT\Battle Ship Game Windows Form MOO ICT\obj\Debug\GraWStatki.Form1.resources
+C:\Users\Wiktoria\source\repos\Battle Ship Game Windows Form MOO ICT\Battle Ship Game Windows Form MOO ICT\obj\Debug\Battle_Ship_Game_Windows_Form_MOO_ICT.Properties.Resources.resources
+C:\Users\Wiktoria\source\repos\Battle Ship Game Windows Form MOO ICT\Battle Ship Game Windows Form MOO ICT\obj\Debug\graWStatki.csproj.GenerateResource.cache
+C:\Users\Wiktoria\source\repos\Battle Ship Game Windows Form MOO ICT\Battle Ship Game Windows Form MOO ICT\obj\Debug\graWStatki.csproj.CoreCompileInputs.cache
+C:\Users\Wiktoria\source\repos\Battle Ship Game Windows Form MOO ICT\Battle Ship Game Windows Form MOO ICT\obj\Debug\graWStatki.csproj.CopyComplete
+C:\Users\Wiktoria\source\repos\Battle Ship Game Windows Form MOO ICT\Battle Ship Game Windows Form MOO ICT\obj\Debug\Battle Ship Game Windows Form MOO ICT.exe
+C:\Users\Wiktoria\source\repos\Battle Ship Game Windows Form MOO ICT\Battle Ship Game Windows Form MOO ICT\obj\Debug\Battle Ship Game Windows Form MOO ICT.pdb
